@@ -7,7 +7,7 @@
 
 ## Example API Request  
 ```plaintext  
-https://gst-info.vercel.app/player-info?region=SG&uid=338277714  
+https://your-domain/player-info?region=SG&uid=338277714  
 ```  
 
 ## Example Response  
@@ -151,15 +151,7 @@ https://gst-info.vercel.app/player-info?region=SG&uid=338277714
         "periodicSummaryEndTime": "1749773520"  
     }  
 }  
-```  
-
-## Getting Started  
-
-### Clone the Repository  
-To clone the repository, run the following command:  
-```bash  
-git clone https://github.com/duyvinh09/FreeFireInfoSite.git  
-```  
+```   
 
 ### Deploy via Vercel  
 You can deploy the project using the link below:  
